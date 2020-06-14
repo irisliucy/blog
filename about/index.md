@@ -1,17 +1,25 @@
 ---
 layout: page
 current: about
-title: About
+title: About Me
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/iris.jpg'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Hi there!
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+I'm Iris Liu, blogger and full-stacked developer, who is now working on researches related to machine learning and neural networks.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+When I'm not coding, I spend my time on reading, trail running, organizing tech service trips and listening to stories of empowering women and men.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Raised in Hong Kong, I grew my passion for science and technology at a young age and studied computer science in my undergraduate. Inspired by stories of successful women leaders e.g. Sheryl Sandberg, Melinda Gates, I aspire to empower young people to learn to code and become a leader in tech. I started volunteering in the Philippines in October 2018, when I was looking for a purposeful experience other than exotic beaches and diving trips. I began with helping a local charity fixing their Wifi connection and  teaching the junior high students how to create and sync their reports with Google Docs. Now it's my third time coming back, hosting local meetups with local students and engineers and together we serve and teach the young about coding and STEM in the community centre. In the beginning of 2020, I will be moving to Los Angeles to study Master in Computer Science in USC.
+
+If you want to connect, you are more than welcomed to comment or ping me via email.
+
+Also, I'm up for coffee and vegetarian delights ☕🌱- message me when you are around Hong Kong 🇭🇰.
+
+* [Email](mailto:irisliu.cy@gmail.com)
+* [Instagram](https://www.instagram.com/irisliucy/)
+* [LinkedIn](https://www.linkedin.com/in/irisliucy/)

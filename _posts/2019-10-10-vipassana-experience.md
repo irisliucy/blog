@@ -20,11 +20,11 @@ I am always interested in human minds (my research interest is to teach machines
 
 > Similar to programming, if we know the how the logic of the program is written, we can easily fix existing bugs in the program, prevent new bugs, and even rewrite the entire program. And that is very powerful - we will no longer feel all the negative thoughts that limit us and since our minds also control our physical bodies, we can reach our full potential, mentally and physically.
 
-I did not find Vipassana, it is Vipassana found me. Before I heard of Vipassana meditation, I barely even know and do meditation. It was the time when I experienced serious burnout in my work as a software engineer and decided to "resign naked" to search for my purposes and direction and then my colleague at the time mentioned Vipassana in our conversation. She didn't even go to the 10-day Vipassana course herself, but she recommended me to give meditation a try and said that the course provides an excellent environment to learn the meditation techniques. Later, I confirmed by having a prep talk with another friend who recently completed the course. Well, I had no plan at the time and if it would help calm the mind and give me the headspace to think about my next moves, that was good enough for me to try it (plus it's completely free).
+I did not find Vipassana, Vipassana found me. Before I heard of Vipassana meditation, I barely even know and do meditation. It was the time when I experienced serious burnout in my work as a software engineer and decided to "resign naked" to search for my purposes and direction and then my colleague at the time mentioned Vipassana in our conversation. She didn't even go to the 10-day Vipassana course herself, but she recommended me to give meditation a try and said that the course provides an excellent environment to learn the meditation techniques. Later, I confirmed by having a prep talk with another friend who recently completed the course. Well, I had no plan at the time and if it would help calm the mind and give me the headspace to think about my next moves, that was good enough for me to try it (plus it's completely free).
 
 ### Part 2. The fix, Day 1 - 10
 
-I arrived at the camp on the evening of the 10th. The day I arrived was an orientation day. All students observe "noble silence": which means no communication, either by speaking or contact or gestures, with any other students. Although there were people around, you were there to be by yourself. Noble silence started 7pm, and the course had officially started.
+I arrived at the camp on the evening of the 10th. The day I arrived was an orientation day. All students observed "noble silence": which means no communication, either by speaking or contact or gestures, with any other students. Noble silence started 7pm, and the course had officially started.
 
 The daily schedule was not easy for me. It included an early morning and night routine, along with 11 hours of meditation practice. It was as follows:
 
@@ -80,7 +80,7 @@ The takeaways of the vipassana journey can be summarized as below:
 
 **Path of Dhamma**
 
-"Dhamma" is an interesting term in the vipassana journey. It means the universial law of nature. The path is divided into 3 sections, sila, samadi, and panna.
+"Dhamma" is an interesting term in the vipassana journey. It means the universal law of nature. The path is divided into 3 sections, sila, samadi, and panna.
   1. Sila - the abstain from unwholesome deeds of body and speech.
 
   This is like the foundation principle. If we want to live in peace and harmony within ourselves and with others, we have to practice what we preach - have the right speech, perform the right action, and live the right livelihood.
@@ -120,13 +120,13 @@ Lucky enough, some changes did happen to me. Immediately after the meditation ca
 
 ***Am I fixed now?***
 
-No, and I do not need to. Meditation is called a practice for a reason. It is a never-ending process. As long as you keep working on it consistently, like everything you do in life, you will see improvements and results. My result is gaining clarity in fulfilling my purposes and archieving things that I want in life - family, personal growth, careers, health, fitness, finances, personal contribution etc.
+No, and I do not need to. Meditation is called a practice for a reason. It is a never-ending process. As long as you keep working on it consistently, like everything you do in life, you will see improvements and results. My result is gaining clarity in fulfilling my purposes and achieving things I want in life - family, personal growth, careers, health, fitness, finances, personal contribution etc.
 
 ***How do I find time to practice meditation daily?***
 
-After the course, it is recommended to follow a 2-hour meditation practice daily. Let's be honest, it is difficult and we don't have time. I believe it all comes down to priority in life. I experience the benefits of vipassana - the clarity and peace, hence I aimed doing 1 hour meditation daily, preferably in the early morning.
+After the course, it is recommended to follow a 2-hour meditation practice daily (Let's be honest, it is difficult and we don't have time.).  I believe it all comes down to priority in life. I experience the benefits of vipassana - the clarity and peace, hence I aim doing 1 hour meditation daily, preferably in the early morning.
 
-If I miss a session, I will not be pissed or felt lost. I will continue in the next day (it's all about the equanimity! You failed, and you keep trying the next time). Another tips is to join the short courses (1/ 3 days) from time to time to refresh the skills and even a long course yearly. Group sitting works for some people as well. Finding your community and organizing group meditation in your areas are great ways to keep the consistent practice.
+If I miss a session, I will not be pissed by myself. I will continue in the next day (it's all about the equanimity! You failed, and you keep trying the next time). Another tips is to join the short courses (1/ 3 days) and a long course from time to time to refresh the skills. Group sitting works for some people as well. Finding your community and organizing group meditation in your areas are great ways to keep the consistent practice.
 
 ### Useful Resources
 

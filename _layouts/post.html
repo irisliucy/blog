@@ -2,7 +2,7 @@
 layout: default
 current: post
 class: post-template
-disqus: false
+disqus: true
 ---
 
 <!-- default -->
@@ -95,8 +95,11 @@ into the {body} of the default.hbs template -->
                     <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
-                            this.page.url = '{{ site.url }}{{ site.baseurl }}';
-                            this.page.identifier = '{{ site.title }}';
+                            // this.page.url = '{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}';
+                            this.page.url = '{{ page.url | absolute_url }}';
+                            // this.page.url = '{{ site.url }}{{ site.baseurl }}';
+                            this.page.identifier = '{{ page.id }}';
+                            this.page.title = '{{ page.title }}';
                         };
                         (function() {
                             var d = document, s = d.createElement('script');

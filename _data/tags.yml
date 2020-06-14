@@ -1,16 +1,24 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+tech:
+  name: tech
+  description: False
+  cover: assets/images/tech.jpg
+race_report:
+  name: race report
+  description: False
+  cover: 
+read:
+  name: read
+  description: Reading List
+  cover: assets/images/books.jpg
+research:
+  name: research
+  description: False
+  cover: assets/images/research.jpg
+writing:
+  name: writing
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+running:
+  name: running
   description: False
-  cover: False
+  cover: assets/images/running.jpg
