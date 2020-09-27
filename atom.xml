@@ -1,28 +1,86 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>A blog of a computer scientist and ultra runner</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    http://localhost:4444</link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Goodbye 2019</title>
+        
+          <description>&lt;p&gt;I was leaving for Los Angelos on 24th December 2019. At the time, I created this bucket list to create memories with families and friends before leaving Home Kong 🇭🇰! Goodbye for now.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 01 Jan 2020 02:00:00 -0800</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        http://localhost:4444/bucket-list-2019</link>
+        <guid isPermaLink="true">http://localhost:4444/bucket-list-2019</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>My first 50Km - A note to myself</title>
+        
+          <description>&lt;p&gt;Dear Iris,&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 26 Oct 2019 03:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4444/my-first-50Km</link>
+        <guid isPermaLink="true">http://localhost:4444/my-first-50Km</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>HK50 2019 Race Report</title>
+        
+          <description>&lt;p&gt;I checked off a 50Km ultra run in my bucket list before the end of 2019. The run was a dream, a sweet dream for me. And now I’m proud to call myself an ultra runner.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 26 Oct 2019 03:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4444/hk50-race-report</link>
+        <guid isPermaLink="true">http://localhost:4444/hk50-race-report</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>6 months updates on my 10-day Vipassana meditation experience</title>
+        
+          <description>&lt;p&gt;I went to the Vipassana Meditation Center in Lantau, Hong Kong for a new student’s ten day course about 6 months ago in April 2019. I completed it and I
+went home thinking “I’m fixed”. This is a journal of how and why it came about as well as my experiences during and after the course.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 01 Oct 2019 03:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4444/vipassana-experience</link>
+        <guid isPermaLink="true">http://localhost:4444/vipassana-experience</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Why I went from a software engineer to a research assistant? Industry vs academia?</title>
+        
+          <description>&lt;p&gt;I’ve recently transited from working as a software engineer in a technology startups to a research assistant (RA) in electrical engineering. People are often interested and even surprised in my transition from working in the tech industry to academia.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 05 Aug 2019 03:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4444/why-I-transit-from-SE-to-research</link>
+        <guid isPermaLink="true">http://localhost:4444/why-I-transit-from-SE-to-research</guid>
+      </item>
+      
+    
   </channel>
 </rss>
